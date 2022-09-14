@@ -37,10 +37,10 @@ import re
 
 # Custom Libraries
 from utils.data_loader import load_movie_titles
-from utils.data_loader import load_movie_budget
-from utils.data_loader import load_movie_runtime
-from utils.data_loader import load_movie_ratings
-from utils.data_loader import load_movie_df
+#from utils.data_loader import load_movie_budget
+#from utils.data_loader import load_movie_runtime
+#from utils.data_loader import load_movie_ratings
+#from utils.data_loader import load_movie_df
 from recommenders.collaborative_based import collab_model
 from recommenders.content_based import content_model
 
